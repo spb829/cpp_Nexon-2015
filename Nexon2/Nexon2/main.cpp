@@ -9,6 +9,7 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
+#include <list>
 
 using namespace std;
 
