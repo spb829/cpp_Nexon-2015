@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Nexon2/Nexon2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Nexon1/Nexon1.xcodeproj">
    </FileRef>
 </Workspace>
